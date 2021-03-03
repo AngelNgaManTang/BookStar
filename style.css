@@ -3493,6 +3493,11 @@ span.m_1 {
     transition: all 0.3s;
 }
 
+.course_subtitle{
+    text-align: center;
+    padding-top: 2em;
+    font-size: 4em;
+}
 
 .post-content .post-date{
 	display: inline-block;
